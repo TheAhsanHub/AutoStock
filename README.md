@@ -1,4 +1,4 @@
-# 🚗 AutoStock
+#  AutoStock
 
 **A car dealership inventory and sales management system, built in Python with a Tkinter GUI.**
 
